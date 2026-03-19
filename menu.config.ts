@@ -2,6 +2,7 @@
 export const mainMenu = {
   home: "/",
   products: "/products",
+  blog: "/posts",
   projects: "/projects",
   about: "/about",
   contact: "/contact",
